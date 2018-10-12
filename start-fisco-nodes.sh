@@ -1,0 +1,1 @@
+docker exec -it fisco-dev-instance /bin/bash -c "cd build/ && ./start.sh"
