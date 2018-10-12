@@ -1,0 +1,1 @@
+docker run -p 127.0.0.1:8545:8545 -v dockerdir:/hostdir --name fisco-dev-instance -d rowellpica/fiscobcosdocker tail -f /dev/null

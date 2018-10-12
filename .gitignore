@@ -1,0 +1,4 @@
+*.DS_Store
+node0/*
+dockerdir/*
+!dockerdir/.gitkeep
